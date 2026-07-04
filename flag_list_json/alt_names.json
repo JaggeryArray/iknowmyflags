@@ -1,0 +1,19 @@
+{
+    "ae": ["UAE"],
+    "cd": ["DRC", "DR Congo"],
+    "cf": ["CAR"],
+    "ci": ["Côte d'Ivoire"],
+    "cn": ["PRC"],
+    "cv": ["Cape Verde"],
+    "cz": ["Czechia"],
+    "fm": ["Micronesia"],
+    "gb": ["UK"],
+    "gw": ["Guinea Bissau"],
+    "kn": ["Saint Kitts and Nevis", "St Kitts and Nevis"],
+    "lc": ["Saint Lucia", "St Lucia"],
+    "sz": ["Swaziland"],
+    "tl": ["East Timor"],
+    "tr": ["Turkey"],
+    "us": ["USA", "US"],
+    "vc": ["Saint Vincent and Grenadines", "St Vincent and Grenadines"]
+}
